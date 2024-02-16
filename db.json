@@ -8,6 +8,10 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "likes":[
+    { "id": 1, "name": "some name", "postId": 1 },
+    { "id": 2, "name": "some name", "postId": 2 }
+  ],
   "profile": {
     "name": "typicode"
   }
